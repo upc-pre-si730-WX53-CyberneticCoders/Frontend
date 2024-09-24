@@ -37,7 +37,6 @@ export default {
   text-align: center;
   padding: 20px;
 }
-
 .action-buttons {
   margin-top: 50px;
 }
