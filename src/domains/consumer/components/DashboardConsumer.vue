@@ -33,6 +33,7 @@ export default {
     //NearbyMeals: () => import('./NearbyMeals.vue'), // Componente para mostrar comidas cercanas
     //OrderHistory: () => import('./OrderHistory.vue'), // Componente para historial de pedidos
     //Preferences: () => import('./Preferences.vue')   // Componente para configurar preferencias
+
   },
   methods: {
     searchFood() {
